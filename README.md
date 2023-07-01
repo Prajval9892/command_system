@@ -1,8 +1,8 @@
 # command_system
 ## List of commands
 * add
- * IT will add item in list
+ ``` IT will add item in list```
 * list
- * It will list all item present in list
+   ```It will list all item present in list```
 * exit
- * It will terminate the command line
+   ```It will terminate the command line```
